@@ -16,11 +16,7 @@ The project analyzes gene expression data using machine learning techniques, spe
 
 ## Setup Instructions
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/TryingtobeingNikhil/xy.git
-   cd xy
-   ```
+1. Clone this repository
 
 2. Create a virtual environment:
    ```bash
@@ -58,3 +54,4 @@ The project performs K-means clustering on gene expression data to:
 
 
 This project is open source and available under the MIT License. 
+
