@@ -49,9 +49,3 @@ The project performs K-means clustering on gene expression data to:
 - NumPy (Numerical computations)
 - Matplotlib (Visualization)
 - Scikit-learn (Machine learning algorithms)
-
-## License
-
-
-This project is open source and available under the MIT License. 
-
