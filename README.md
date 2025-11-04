@@ -8,9 +8,7 @@ The project analyzes gene expression data using machine learning techniques, spe
 
 ## Files Description
 
-- **Kmean.ipynb**: Main Jupyter notebook containing the K-means clustering analysis
 - **Main-checkpoint.ipynb**: Checkpoint file for the main analysis notebook
-- **Train_gene_data.csv**: Gene expression dataset used for analysis
 - **Bio-Data Mining Project.pdf**: Project documentation and report
 - **science.286.5439.531.pdf**: Reference paper for the methodology
 
@@ -49,3 +47,4 @@ The project performs K-means clustering on gene expression data to:
 - NumPy (Numerical computations)
 - Matplotlib (Visualization)
 - Scikit-learn (Machine learning algorithms)
+
